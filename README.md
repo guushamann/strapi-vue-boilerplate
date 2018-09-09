@@ -2,6 +2,8 @@
 
 ## Project setup
 ```
+first setup Strapi with docker --> https://github.com/strapi/strapi-docker
+
 npm install
 ```
 
