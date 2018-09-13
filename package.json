@@ -1,5 +1,5 @@
 {
-  "name": "strapi-vue-boilerplate",
+  "name": "strapi-vue-test",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,7 @@
     "bootstrap-vue": "^2.0.0-rc.11",
     "ionicons": "^4.4.3",
     "register-service-worker": "^1.0.0",
+    "socket.io-client": "^2.1.1",
     "strapi-sdk-javascript": "^0.3.0",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
